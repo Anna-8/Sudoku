@@ -1,7 +1,6 @@
 # Sudoku
 
 Class Sudoku: 
-
 Init():
 prende in input un Sudoku scritto sotto forma di stringa e costruisce il CSP. In particolare, costruisce vari dizionari che associano a ogni variabile o i valori che essa può assumere o le variabili con cui è vincolata. 
 
