@@ -1,8 +1,10 @@
 # Sudoku
 
 Class Sudoku: 
-Init:
+
+Init():
 prende in input un Sudoku scritto sotto forma di stringa e costruisce il CSP. In particolare, costruisce vari dizionari che associano a ogni variabile o i valori che essa può assumere o le variabili con cui è vincolata. 
+
 BuildDict():
 funzione utilizzata da Init() per costruire il dizionario che ad ogni variabile del CSP associa i valori che essa può assumere in base agli elementi della stringa che rappresenta il Sudoku.
 
